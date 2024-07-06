@@ -89,7 +89,7 @@ int main() {
             cout << "Bye";
             return 0;
         default:
-            cout << "Invalid choice, please try again." << endl;
+            cout << "Invalid choice" << endl;
             break;
         }
 
