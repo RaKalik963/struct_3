@@ -86,6 +86,7 @@ int main() {
             cin >> Wash.temperature;
             break;
         case 0:
+            cout << "Bye";
             return 0;
         default:
             cout << "Invalid choice, please try again." << endl;
